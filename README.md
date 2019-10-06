@@ -1,2 +1,2 @@
 # Learning-Machine-Learning
-This is to keep a track of learning during Master's
+This is to keep a track of my learning during Master's
