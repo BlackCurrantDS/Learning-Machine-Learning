@@ -1,0 +1,9 @@
+find the line which is best fit
+
+x input data or features
+y- output- target fucntion
+calculate hypothesis fucntion so that its close the ouput and hence minimuize error
+
+trying to find 
+
+h : X → Y
