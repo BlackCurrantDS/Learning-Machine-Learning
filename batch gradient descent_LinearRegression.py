@@ -2,6 +2,7 @@
 
 # In[198]:
 
+#TODO : Put Comments
 
 import argparse, sys
 import pandas as pd
@@ -70,7 +71,7 @@ if __name__ == "__main__":
 
     args=parser.parse_args()
     data = args.data
-    #file_name = os.path.basename(data)
+    
 
     b_gd(float(args.threshold),data,float(args.learningRate))
 
